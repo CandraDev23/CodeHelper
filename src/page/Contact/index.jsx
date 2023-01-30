@@ -11,7 +11,7 @@ function Contact() {
                 <div className="w-50 p-lg-5">
                     <h2 className="text-primary text-center my-lg-4">Contact Us</h2>
                     <Form className="my-lg-5">
-                        <Form.Group className="mb-3" controlId="formBasicEmail">
+                        <Form.Group className="mb-3" controlId="formBasicFullname">
                             <Form.Label>Full name</Form.Label>
                             <Form.Control type="text" placeholder="Your full name" />
                         </Form.Group>
